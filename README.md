@@ -5,7 +5,7 @@
 
 <p align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=A+passionate+Softwar+Developer+from+Morocco" alt="Typing SVG" /> </p>
 
-<img  align="right" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Gifanimation " />
+<img  align="right" width="450" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Gifanimation " />
 
 
 - 🔭 I’m currently working on [ft_transcendence](https://github.com/BadrKali/ft_transcendence)
