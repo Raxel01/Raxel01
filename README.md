@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [ft_transcendence](https://github.com/BadrKali/ft_transcendence)
 
-- 🌱 I’m currently learning **Javascript, {React.js} , Python, {Django}**
+- 🌱 I’m currently learning **Javascript, {React.js} , Python, {Django}, Relational database, {Postgresql}**
 
 - 👯 I’m looking to collaborate on **Web-Mobile development**
 
