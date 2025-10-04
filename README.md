@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelali-ait-talb-091350278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelali ait talb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/canis_lupus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="canis_lupus" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/abdelaliaittalb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="canis_lupus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
