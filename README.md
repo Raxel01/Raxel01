@@ -8,15 +8,15 @@
 <img  align="right" width="450" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Gifanimation " />
 
 
-- 🔭 I’m currently working on [ft_transcendence](https://github.com/BadrKali/ft_transcendence)
+- 🔭 I’m currently working on [kubernetes/K3S/k8S](https://github.com/Raxel01/Inception-of-things)
 
-- 🌱 I’m currently learning **Javascript, {React.js} , Python, {Django}, Relational database, {Postgresql}**
+- 🌱 I’m currently learning Websites Security, Networking, DevOps 
 
 - 👯 I’m looking to collaborate on **Web-Mobile development**
 
-- 💬 Ask me about **C, C++, Docker, Github**
+- 💬 Ask me about **C, C++, Docker, Networking, Rest APIs**
 
-- 📫 How to reach me **aittalbabdelalie@gmail.com**
+- 📫 How to reach me **abdelali.work.hunting@gmail.com**
 
 - ⚡ Fun fact **I have implemented my own shell using C**
 
