@@ -1,5 +1,5 @@
 
-<p align="center"><img  alt="Gif code" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height="350" width="1000"></p>
+<p align="center"><img  alt="Gif code" src="https://c4.wallpaperflare.com/wallpaper/641/392/895/typography-quote-simple-background-wallpaper-preview.jpg" height="350" width="1000"></p>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelali" alt="Typing SVG" /> </p>
 
